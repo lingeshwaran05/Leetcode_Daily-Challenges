@@ -1,1 +1,1 @@
-# Leetcode_sep_2022
+# Leetcode_Daily Challenges_2022
